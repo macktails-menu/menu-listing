@@ -124,5 +124,13 @@
               "image": "https://drive.google.com/uc?export=view&id=1AqE_r5q4uYYOlRGg6IGNHbJNnBwvNNsW"
             }
       ]
-   }
+   },
+   "social_media": [
+      {
+        "facebook": {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/"
+        }
+      }
+   ]
 }
