@@ -129,7 +129,13 @@
       {
         "facebook": {
           "name": "Facebook",
-          "url": "https://www.facebook.com/"
+          "url": "https://www.facebook.com/",
+          "logo": "fa-facebook-official"
+        },
+        "instagram": {
+          "name": "Instagram",
+          "url": "https://www.instagram.com/",
+          "logo": "fa-instagram"
         }
       }
    ]
