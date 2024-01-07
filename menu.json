@@ -26,7 +26,7 @@
             "image": "https://drive.google.com/uc?export=view&id=1h0Ikc8wnW4RATm04JcLjusHNcGCAoX8n"
           }
       ],
-      "wellnessBlend":[
+      "wellness_blend":[
             {
               "name": "Wellness Item One",
               "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
@@ -52,7 +52,7 @@
               "image": "https://drive.google.com/uc?export=view&id=1pvbIAhpfWQE_s2YCXhg9u7Ya_9ZY_kQH"
             }
       ],
-      "limitedCraft":[
+      "limited_craft":[
             {
               "name": "Limited Craft Item One",
               "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
@@ -66,7 +66,7 @@
               "image": "https://drive.google.com/uc?export=view&id=1m1QOIVrOzERZtzDkdQfXEKb1O08gdPRi"
             }
       ],
-      "teaCraft":[
+      "tea_craft":[
             {
               "name": "Tea Craft",
               "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
@@ -98,7 +98,7 @@
               "image": "https://drive.google.com/uc?export=view&id=1BdNZs3UGqyeLLLhAHpO_olHjW3_2U9O2"
             }
       ],
-      "coffeeCraft":[
+      "coffee_craft":[
             {
               "name": "Coffee Craft",
               "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
