@@ -9,19 +9,19 @@
           },
           {
             "name": "MATCHA FIZZ",
-            "description": "Matcha foam, cucumber, lemon, ginger ale <br> Light, vibrant, and fizzy with a hint of matcha notes and a cucumber punch. Matcha, in a fresh and intriguing take.",
+            "description": "Matcha foam, cucumber, lemon, ginger ale <br><br> Light, vibrant, and fizzy with a hint of matcha notes and a cucumber punch. Matcha, in a fresh and intriguing take.",
             "price": "P100.00",
             "image": "https://drive.google.com/uc?export=view&id=1EyU4XiFcCb3RQcT-MCmkGrJK-84MutWC"
           },
           {
             "name": "PURPLE BE LIKE",
-            "description": "Butterfly pea, maraschino cherry, lime, mint <br> A refreshing and delicate beverage with a prominent botanical flavor.",
+            "description": "Butterfly pea, maraschino cherry, lime, mint <br><br> A refreshing and delicate beverage with a prominent botanical flavor.",
             "price": "P100.00",
             "image": "https://drive.google.com/uc?export=view&id=1hMSVeZcPV6mUb9_D5IDh3aL1tSstD4CI"
           },
           {
             "name": "TEPACHE SOUR",
-            "description": "Fermented pineapple, cane sugar, lime-lemon, aquafaba, tarragon <br> Our funky mocktail, sweet and tart, with pineapple predominant.",
+            "description": "Fermented pineapple, cane sugar, lime-lemon, aquafaba, tarragon <br><br> Our funky mocktail, sweet and tart, with pineapple predominant.",
             "price": "P90.00",
             "image": "https://drive.google.com/uc?export=view&id=1yvqvx1qsWWLozjEhYhkPHJLB4UYGEoOM"
           }
@@ -29,25 +29,25 @@
       "wellness_blend":[
             {
               "name": "SMOOTH NOT CRIMINAL",
-              "description": "Ginger, turmeric, chia seeds, honey citron, lemon oleo <br> Our immune boosting beverage, high in antioxidants and is deliciously refreshing.",
+              "description": "Ginger, turmeric, chia seeds, honey citron, lemon oleo <br><br> Our immune boosting beverage, high in antioxidants and is deliciously refreshing.",
               "price": "P100.00",
               "image": "https://drive.google.com/uc?export=view&id=1TTIBgpOR6My4KutkLPzQTmkyz1YQUg5x"
             },
             {
               "name": "IS THIS THRILLER",
-              "description": "Beet root, apple, lemongrass-fennel, lemon, dehydrated apple <br> Exhibiting fruity, earthy, and energizing elements.",
+              "description": "Beet root, apple, lemongrass-fennel, lemon, dehydrated apple <br><br> Exhibiting fruity, earthy, and energizing elements.",
               "price": "P100.00",
               "image": "https://drive.google.com/uc?export=view&id=1rAnk7y16aZCtd1PSKJM8y67cSTeGzbaH"
             },
             {
               "name": "RED OR WHITE",
-              "description": "Aloe vera, chamomile, watermelon foam, dehydrated lemon <br> An aromatic and revitalizing blend of two mellow palates, enhanced with an aroma of watermelon foam.",
+              "description": "Aloe vera, chamomile, watermelon foam, dehydrated lemon <br><br> An aromatic and revitalizing blend of two mellow palates, enhanced with an aroma of watermelon foam.",
               "price": "P100.00",
               "image": "https://drive.google.com/uc?export=view&id=1SRbsm8VsKutCUCh_1XpsyxCDqHizyJDs"
             },
             {
               "name": "HEAL THE HEART",
-              "description": "Tarragon, calamansi, honey, smoke paprika, dehydrated calamansi <br> An exceptional herb (tarragon) with numerous benefits, balanced with a pleasant acidity and a paprika smoke undertone.",
+              "description": "Tarragon, calamansi, honey, smoke paprika, dehydrated calamansi <br><br> An exceptional herb (tarragon) with numerous benefits, balanced with a pleasant acidity and a paprika smoke undertone.",
               "price": "P100.00",
               "image": "https://drive.google.com/uc?export=view&id=1SgeVW-tbISFgvcTraIIDJvjsY1CGqqpU"
             }
@@ -55,13 +55,13 @@
       "limited_craft":[
             {
               "name": "ANG PAO",
-              "description": "Peach, hibiscus, cinnamon, apricot coin <br> A blend of cranberry and herbal notes with velvety peach nuances.",
+              "description": "Peach, hibiscus, cinnamon, apricot coin <br><br> A blend of cranberry and herbal notes with velvety peach nuances.",
               "price": "P120.00",
               "image": "https://drive.google.com/uc?export=view&id=1RBd_UYlu1EWNj0R6MeDSbw5vpnW64Ziw"
             },
             {
               "name": "SIMBANG GABI",
-              "description": "Coconut, ube foam, parmesan cheese, burnt nyog <br> Our take on our traditional delicacy purple rice cake (Puto bumbong), with just the right amount of sweetness, umami, and burnt flavors.",
+              "description": "Coconut, ube foam, parmesan cheese, burnt nyog <br><br> Our take on our traditional delicacy purple rice cake (Puto bumbong), with just the right amount of sweetness, umami, and burnt flavors.",
               "price": "P120.00",
               "image": "https://drive.google.com/uc?export=view&id=1NtNn6yGf-Fl3NdnuEtvBYNrzXZJK5aXf"
             }
