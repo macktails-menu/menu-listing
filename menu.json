@@ -3,7 +3,8 @@
       "signature_classic":[
           {
             "name": "Rosy Pear",
-            "description": "Tropical forward mocktail, textured with fresh pear. The crowd’s favorite. \n Pear, pink guava, lemon, fermented milk, basil ()",
+            "ingredients": "Pear, pink guava, lemon, fermented milk, basil ",
+            "description": "Tropical forward mocktail, textured with fresh pear. The crowd’s favorite.",
             "price": "P 90.00",
             "image": "https://drive.google.com/uc?export=view&id=1Zc9Wg53PMD3Zxkw1t6UZLouRiWK9jGNp"
           },
