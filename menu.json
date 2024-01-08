@@ -2,8 +2,8 @@
     "menu": { 
       "signature_classic":[
           {
-            "name": "ROSY PEAR",
-            "description": "Pear, pink guava, lemon, fermented milk, basil <br> <br> Tropical forward mocktail, textured with fresh pear. The crowd’s favorite.",
+            "name": "ROSY PEAR - Pear, pink guava, lemon, fermented milk, basil",
+            "description": "Tropical forward mocktail, textured with fresh pear. The crowd’s favorite.",
             "price": "P90.00",
             "image": "https://drive.google.com/uc?export=view&id=1Zc9Wg53PMD3Zxkw1t6UZLouRiWK9jGNp"
           },
@@ -15,7 +15,7 @@
           },
           {
             "name": "PURPLE BE LIKE",
-            "description": " Butterfly pea, maraschino cherry, lime, mint <br> A refreshing and delicate beverage with a prominent botanical flavor.",
+            "description": "Butterfly pea, maraschino cherry, lime, mint <br> A refreshing and delicate beverage with a prominent botanical flavor.",
             "price": "P100.00",
             "image": "https://drive.google.com/uc?export=view&id=1hMSVeZcPV6mUb9_D5IDh3aL1tSstD4CI"
           },
@@ -28,100 +28,100 @@
       ],
       "wellness_blend":[
             {
-              "name": "Wellness Item One",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
+              "name": "SMOOTH NOT CRIMINAL",
+              "description": "Ginger, turmeric, chia seeds, honey citron, lemon oleo <br> Our immune boosting beverage, high in antioxidants and is deliciously refreshing.",
               "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1Px03Hq_-fmQWOo4dSvhd-jQFsUlaHF2P"
+              "image": "https://drive.google.com/uc?export=view&id=1TTIBgpOR6My4KutkLPzQTmkyz1YQUg5x"
             },
             {
-              "name": "Wellness Item Two",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
+              "name": "IS THIS THRILLER",
+              "description": "Beet root, apple, lemongrass-fennel, lemon, dehydrated apple <br> Exhibiting fruity, earthy, and energizing elements.",
               "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1JAv_9wPDHZN7jgqTiuftNiUPJGuC3Swv"
+              "image": "https://drive.google.com/uc?export=view&id=1rAnk7y16aZCtd1PSKJM8y67cSTeGzbaH"
             },
             {
-              "name": "Wellness Item Three",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
+              "name": "RED OR WHITE",
+              "description": "Aloe vera, chamomile, watermelon foam, dehydrated lemon <br> An aromatic and revitalizing blend of two mellow palates, enhanced with an aroma of watermelon foam.",
               "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1g6b6TU1i5BFffDC8bjCsKaqhgyU78QNB"
+              "image": "https://drive.google.com/uc?export=view&id=1SRbsm8VsKutCUCh_1XpsyxCDqHizyJDs"
             },
             {
-              "name": "Wellness Item Four",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
+              "name": "HEAL THE HEART",
+              "description": "Tarragon, calamansi, honey, smoke paprika, dehydrated calamansi <br> An exceptional herb (tarragon) with numerous benefits, balanced with a pleasant acidity and a paprika smoke undertone.",
               "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1pvbIAhpfWQE_s2YCXhg9u7Ya_9ZY_kQH"
+              "image": "https://drive.google.com/uc?export=view&id=1SgeVW-tbISFgvcTraIIDJvjsY1CGqqpU"
             }
       ],
       "limited_craft":[
             {
-              "name": "Limited Craft Item One",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1fYPRaS99pRZ0YNOVIEQIL7l27RDXIV4L"
+              "name": "ANG PAO",
+              "description": "Peach, hibiscus, cinnamon, apricot coin <br> A blend of cranberry and herbal notes with velvety peach nuances.",
+              "price": "P120.00",
+              "image": "https://drive.google.com/uc?export=view&id=1RBd_UYlu1EWNj0R6MeDSbw5vpnW64Ziw"
             },
             {
-              "name": "Limited Craft Item Two",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1m1QOIVrOzERZtzDkdQfXEKb1O08gdPRi"
+              "name": "SIMBANG GABI",
+              "description": "Coconut, ube foam, parmesan cheese, burnt nyog <br> Our take on our traditional delicacy purple rice cake (Puto bumbong), with just the right amount of sweetness, umami, and burnt flavors.",
+              "price": "P120.00",
+              "image": "https://drive.google.com/uc?export=view&id=1NtNn6yGf-Fl3NdnuEtvBYNrzXZJK5aXf"
             }
       ],
       "tea_craft":[
             {
-              "name": "Tea Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
+              "name": "ENDLESS SUMMER",
+              "description": "Jasmine tea, lychee, lemon, pandan <br><br> Combination of green tea, lychee, and pandan creates a harmonious taste profile. Supple and silky.",
               "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1xFz9vTVziYqkPLQ9qd60NEL_lcR4cue7"
+              "image": "https://drive.google.com/uc?export=view&id=11-I_vPejFejI5pdpXqZkkBLPlzk-9MVT"
             },
             {
-              "name": "Tea Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=13nKLit5vy7PG4LK3RB8-4uTakAOVcWNA"
+              "name": "MATCHA SESAME",
+              "description": "Matcha, roasted sesame seeds, cream <br><br> Mellow vegetal aromas with a hint of nuttiness, slightly sweet and bitter with an elegant savory finish.",
+              "price": "P120.00",
+              "image": "https://drive.google.com/uc?export=view&id=1o1yx7KbbHlUaIaoeJrDpIJqqc9SYV932"
             },
             {
-              "name": "Tea Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1ncQj5RErWt2Vjy0FKsUNu7dOI1aUusJU"
+              "name": "EXTRA DIRTY",
+              "description": "Chai cordial, purematcha, milk blend <br><br> A pleasing marriage of grassy green tea and spiced black tea in a rich and creamy style beverage.",
+              "price": "P110.00",
+              "image": "https://drive.google.com/uc?export=view&id=1TdDLZ5TRFs7LMjp06lYKfA6ghPy9CHC_"
             },
             {
-              "name": "Tea Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1TOHP5pdItZtPJ_UzCvgvpsg5DD70FepB"
+              "name": "AMARONE ICED TEA",
+              "description": "Thai tea, dried grapes, lemon <br><br> The robust Thai tea pairs excellently with the essence of dried fruits, creating a mocktail reminiscent of rich and complex flavors found in Amarone wine.",
+              "price": "P110.00",
+              "image": "https://drive.google.com/uc?export=view&id=1qJiIzyOXJZfOCFEjhtcgUAAb27XlXF2J"
             },
             {
-              "name": "Tea Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
+              "name": "THE BANGKOK",
+              "description": "Thai tea, milk blend, cream, nutmeg <br><br> Delicious and traditional Thai tea, sweet and hearty with a unique black tea notes.",
               "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1BdNZs3UGqyeLLLhAHpO_olHjW3_2U9O2"
+              "image": "https://drive.google.com/uc?export=view&id=1lpid6wS_vl7A94oEqQN-vl6nKEdB5KxH"
             }
       ],
       "coffee_craft":[
             {
-              "name": "Coffee Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1ooOjY37oj0xerYTyjPgxEQ15d-nn1gig"
+              "name": "SAGADA MOJITO",
+              "description": "Cold brew, mint, ginger ale, lime <br><br> Our variation on the classic mojito, boosted with caffeine for a more stimulating experience. ",
+              "price": "P110.00",
+              "image": "https://drive.google.com/uc?export=view&id=1ZxNf9Qf3Qpa3Cikj5xyc-diJC1Uo2aSv"
             },
             {
-              "name": "Coffee Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1x_Sf0F-vqGGzKXd9GDhqZdW-VM25aAMx"
+              "name": "YEMA AFFOGATO",
+              "description": "Yema, cold brew, milk blend, cream <br><br> A harmonious fusion of a cherished Filipino confection and an intense local coffee. Extremely addictive!",
+              "price": "P120.00",
+              "image": "https://drive.google.com/uc?export=view&id=1fvhxoP6D99sGV4SBLtbQqRQuRCFvnzsq"
             },
             {
-              "name": "Coffee Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1fYG8YjKTf-eM8lJ4Pj75UyBf5ycekvw3"
+              "name": "MOCHA ROMANO",
+              "description": "80% Dark cocoa, cold brew, lemon oleo saccharum, cream, lemon zest <br><br> Blending three aromatic bitter ingredients with cream for a beautiful finish results for a velvety and captivating beverage.",
+              "price": "P120.00",
+              "image": "https://drive.google.com/uc?export=view&id=16jOh7H76-gx7oVzBIfNTYBcL3iwVKZy5"
             },
             {
-              "name": "Coffee Craft",
-              "description": "A refreshing and delicate beverage with a promonent botanical flavor.",
-              "price": "P100.00",
-              "image": "https://drive.google.com/uc?export=view&id=1AqE_r5q4uYYOlRGg6IGNHbJNnBwvNNsW"
+              "name": "WHITE CHRISTMAS",
+              "description": "Biscoff, cold brew, fresh milk, white chocolate cream <br><br> Indulge in a delectable combination of buttery spiced cookies and coffee, elevated with a luscious white chocolate cream.",
+              "price": "P150.00",
+              "image": "https://drive.google.com/uc?export=view&id=1neYG_Z6FZh4q10d0w_hb_ZK3sDiWm_W4"
             }
       ]
    },
@@ -129,12 +129,12 @@
       {
         "facebook": {
           "name": "Facebook",
-          "url": "https://www.facebook.com/",
+          "url": "https://www.facebook.com/profile.php?id=100087458958648",
           "logo": "fa-facebook-official"
         },
         "instagram": {
           "name": "Instagram.",
-          "url": "https://www.instagram.com/",
+          "url": "https://www.instagram.com/macktails_/",
           "logo": "fa-instagram"
         }
       }
