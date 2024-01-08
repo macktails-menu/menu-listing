@@ -4,26 +4,26 @@
           {
             "name": "ROSY PEAR",
             "description": "Pear, pink guava, lemon, fermented milk, basil <br> <br> Tropical forward mocktail, textured with fresh pear. The crowd’s favorite.",
-            "price": "P 90.00",
+            "price": "P90.00",
             "image": "https://drive.google.com/uc?export=view&id=1Zc9Wg53PMD3Zxkw1t6UZLouRiWK9jGNp"
           },
           {
-            "name": "Classic Item Two",
-            "description": "Some description here.",
-            "price": "P180.00",
-            "image": "https://drive.google.com/uc?export=view&id=1Q0_HgYHf_9A9fbJ5ybrpxrR1UICPbDEx"
+            "name": "MATCHA FIZZ",
+            "description": "Matcha foam, cucumber, lemon, ginger ale <br> Light, vibrant, and fizzy with a hint of matcha notes and a cucumber punch. Matcha, in a fresh and intriguing take.",
+            "price": "P100.00",
+            "image": "https://drive.google.com/uc?export=view&id=1EyU4XiFcCb3RQcT-MCmkGrJK-84MutWC"
           },
           {
-            "name": "Classic Item Three",
-            "description": "Some Description here.",
-            "price": "P210.00",
-            "image": "https://drive.google.com/uc?export=view&id=1RY4yxhryrgb8b9PHUo3oWe4z4hjDT1vS"
+            "name": "PURPLE BE LIKE",
+            "description": " Butterfly pea, maraschino cherry, lime, mint <br> A refreshing and delicate beverage with a prominent botanical flavor.",
+            "price": "P100.00",
+            "image": "https://drive.google.com/uc?export=view&id=1hMSVeZcPV6mUb9_D5IDh3aL1tSstD4CI"
           },
           {
-            "name": "Classic Item Four",
-            "description": "Some Description here.",
-            "price": "P210.00",
-            "image": "https://drive.google.com/uc?export=view&id=1h0Ikc8wnW4RATm04JcLjusHNcGCAoX8n"
+            "name": "TEPACHE SOUR",
+            "description": "Fermented pineapple, cane sugar, lime-lemon, aquafaba, tarragon <br> Our funky mocktail, sweet and tart, with pineapple predominant.",
+            "price": "P90.00",
+            "image": "https://drive.google.com/uc?export=view&id=1yvqvx1qsWWLozjEhYhkPHJLB4UYGEoOM"
           }
       ],
       "wellness_blend":[
