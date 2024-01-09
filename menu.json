@@ -157,11 +157,6 @@
           "name": "Instagram",
           "url": "https://www.instagram.com/macktails_/",
           "logo": "fa-instagram"
-        },
-        "tiktok": {
-          "name": "Tiktok",
-          "url": "https://www.tiktok.com/@macktails_?_t=8irnSwp6WPw&_r=1&fbclid=IwAR3CUm_H-qS2RvdhvEdAA0_4YzpbmTjR0DtTLI70mEnTMxD4SB8wXqpyVY8",
-          "logo": "fa-tiktok"
         }
       }
    ]
