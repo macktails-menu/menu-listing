@@ -5,25 +5,25 @@
             "name": "ROSY PEAR",
             "description": "Pear, pink guava, lemon, fermented milk, basil <br><br> Tropical forward mocktail, textured with fresh pear. The crowd’s favorite.",
             "price": "P90.00",
-            "image": "https://images4.imagebam.com/1e/5e/84/MERBCVP_o.jpg"
+            "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/signature_classic/rosy-pear-small.jpg"
           },
           {
             "name": "MATCHA FIZZ",
             "description": "Matcha foam, cucumber, lemon, ginger ale <br><br> Light, vibrant, and fizzy with a hint of matcha notes and a cucumber punch. Matcha, in a fresh and intriguing take.",
             "price": "P100.00",
-            "image": "https://images4.imagebam.com/6f/2c/0a/MERBCVN_o.jpg"
+            "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/signature_classic/matcha-fizz-small.jpg"
           },
           {
             "name": "PURPLE BE LIKE",
             "description": "Butterfly pea, maraschino cherry, lime, mint <br><br> A refreshing and delicate beverage with a prominent botanical flavor.",
             "price": "P100.00",
-            "image": "https://images4.imagebam.com/60/e4/f8/MERBCVO_o.jpg"
+            "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/signature_classic/purple-be-like-small.jpg"
           },
           {
             "name": "TEPACHE SOUR",
             "description": "Fermented pineapple, cane sugar, lime-lemon, aquafaba, tarragon <br><br> Our funky mocktail, sweet and tart, with pineapple predominant.",
             "price": "P90.00",
-            "image": "https://images4.imagebam.com/a4/a2/4a/MERBCVQ_o.jpg"
+            "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/signature_classic/tepache-sour-small.jpg"
           }
       ],
       "wellness_blend":[
@@ -31,54 +31,54 @@
               "name": "SMOOTH NOT CRIMINAL",
               "description": "Ginger, turmeric, chia seeds, honey citron, lemon oleo <br><br> Our immune boosting beverage, high in antioxidants and is deliciously refreshing.",
               "price": "P100.00",
-              "image": "https://images4.imagebam.com/30/8b/41/MERBE6B_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/wellness_blend/smooth-not-criminal-small.jpg"
             },
             {
               "name": "IS THIS THRILLER",
               "description": "Beet root, apple, lemongrass-fennel, lemon, dehydrated apple <br><br> Exhibiting fruity, earthy, and energizing elements.",
               "price": "P100.00",
-              "image": "https://images4.imagebam.com/97/84/f5/MERBE68_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/wellness_blend/is-this-thriller-small.jpg"
             },
             {
               "name": "RED OR WHITE",
               "description": "Aloe vera, chamomile, watermelon foam, dehydrated lemon <br><br> An aromatic and revitalizing blend of two mellow palates, enhanced with an aroma of watermelon foam.",
               "price": "P100.00",
-              "image": "https://images4.imagebam.com/5a/e7/59/MERBE6A_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/wellness_blend/red-or-white-small.jpg"
             },
             {
               "name": "HEAL THE HEART",
               "description": "Tarragon, calamansi, honey, smoke paprika, dehydrated calamansi <br><br> An exceptional herb (tarragon) with numerous benefits, balanced with a pleasant acidity and a paprika smoke undertone.",
               "price": "P100.00",
-              "image": "https://images4.imagebam.com/2c/6f/7c/MERBE66_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/wellness_blend/heal-the-heart-small.jpg"
             }
       ],
       "limited_craft":[  {
               "name": "CHAT BLANC",
               "description": "Carbonated yogurt, mint, lime, anisette <br><br>  Fragrant and minty with a hint of creaminess. My cat-inspired mocktail, MOJI.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/f3/d9/5e/MERBDQY_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/limited_craft/chat-blanc-small.jpg"
             },  {
               "name": "TRAVELING PLUM",
               "description": "Kiamoy, assam black tea, orange <br><br> Dried plum is a savory and sweet Filipino snack that pairs exceptionally well with tannin and citrus.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/ac/70/50/MERBDR3_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/limited_craft/traveler-plum-small.jpg"
             },  {
               "name": "SIMBANG GABI",
               "description": "Coconut, ube foam, parmesan cheese, burnt nyog <br><br> Our take on our traditional delicacy purple rice cake (Puto bumbong), with just the right amount of sweetness, umami, and burnt flavors.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/f7/47/a1/MERBDQZ_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/limited_craft/simbang-gabi-small.jpg"
             },
             {
               "name": "ANG PAO",
               "description": "Peach, hibiscus, cinnamon, apricot coin <br><br> A blend of cranberry and herbal notes with velvety peach nuances.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/56/e3/48/MERBDQX_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/limited_craft/ang-pao-small.jpg"
             },
             {
               "name": "THE MISTLETOE",
               "description": "Kiwi, citrus, strawberry caviar <br><br> This lovely drink is highly refreshing and vivid, with strong fruity and tart flavor.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/16/7b/ca/MERBDR1_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/limited_craft/the-mistletoe-small.jpg"
             }
       ],
       "tea_craft":[
@@ -86,37 +86,37 @@
               "name": "ENDLESS SUMMER",
               "description": "Jasmine tea, lychee, lemon, pandan <br><br> Combination of green tea, lychee, and pandan creates a harmonious taste profile. Supple and silky.",
               "price": "P100.00",
-              "image": "https://images4.imagebam.com/84/3c/73/MERBE44_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/tea_craft/endless-summer-small.jpg"
             },
             {
               "name": "MATCHA SESAME",
               "description": "Matcha, roasted sesame seeds, cream <br><br> Mellow vegetal aromas with a hint of nuttiness, slightly sweet and bitter with an elegant savory finish.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/53/22/27/MERBE49_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/tea_craft/matcha-sesame-small.jpg"
             },
             {
               "name": "EXTRA DIRTY",
               "description": "Chai cordial, premium matcha, milk blend <br><br> A pleasing marriage of grassy green tea and spiced black tea in a rich and creamy style beverage.",
               "price": "P110.00",
-              "image": "https://images4.imagebam.com/64/6f/3d/MERBE47_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/tea_craft/extra-dirty-small.jpg"
             },
             {
               "name": "AMARONE ICED TEA",
               "description": "Thai tea, dried grapes, lemon <br><br> The robust Thai tea pairs excellently with the essence of dried fruits, creating a mocktail reminiscent of rich and complex flavors found in Amarone wine.",
               "price": "P110.00",
-              "image": "https://images4.imagebam.com/dd/d2/50/MERBE40_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/tea_craft/amarone-iced-tea-small.jpg"
             },
             {
               "name": "THE BANGKOK",
               "description": "Thai tea, milk blend, cream, nutmeg <br><br> Delicious and traditional Thai tea, sweet and hearty with a unique black tea notes.",
               "price": "P100.00",
-              "image": "https://images4.imagebam.com/20/03/7e/MERBE4C_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/tea_craft/the-bangkok-small.jpg"
             },
             {
               "name": "BANANA MASALA",
               "description": "Chai tea, muscovado-banana, milk blend, banana brulėe <br><br> The most aromatic tea, with a lot of herbs and spices, and a touch of caramelized banana to make it more complex.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/97/bd/01/MERBE42_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/tea_craft/banana-masala-small.jpg"
             }
       ],
       "coffee_craft":[
@@ -124,25 +124,25 @@
               "name": "SAGADA MOJITO",
               "description": "Cold brew, mint, ginger ale, lime <br><br> Our variation on the classic mojito, boosted with caffeine for a more stimulating experience. ",
               "price": "P110.00",
-              "image": "https://images4.imagebam.com/b8/b1/71/MERBD6C_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/coffee_craft/sagada-mojito-small.jpg"
             },
             {
               "name": "YEMA AFFOGATO",
               "description": "Yema, cold brew, milk blend, cream <br><br> A harmonious fusion of a cherished Filipino confection and an intense local coffee. Extremely addictive!",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/cf/04/56/MERBDG2_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/coffee_craft/yema-affogato-small.jpg"
             },
             {
               "name": "MOCHA ROMANO",
               "description": "80% Dark cocoa, cold brew, lemon oleo saccharum, cream, lemon zest <br><br> Blending three aromatic bitter ingredients with cream for a beautiful finish results for a velvety and captivating beverage.",
               "price": "P120.00",
-              "image": "https://images4.imagebam.com/5b/1a/39/MERBD6A_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/coffee_craft/mocha-romano-small.jpg"
             },
             {
               "name": "WHITE CHRISTMAS",
               "description": "Biscoff, cold brew, fresh milk, white chocolate cream <br><br> Indulge in a delectable combination of buttery spiced cookies and coffee, elevated with a luscious white chocolate cream.",
               "price": "P150.00",
-              "image": "https://images4.imagebam.com/61/96/c7/MERBD6D_o.jpg"
+              "image": "https://raw.githubusercontent.com/macktails-menu/menu-listing/master/images/coffee_craft/white-christmas-small.jpg"
             }
       ]
    },
