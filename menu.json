@@ -151,17 +151,17 @@
         "facebook": {
           "name": "Facebook",
           "url": "https://www.facebook.com/profile.php?id=100087458958648",
-          "logo": "fa-facebook-official"
+          "logo": "lni-facebook-original"
         },
         "instagram": {
           "name": "Instagram",
           "url": "https://www.instagram.com/macktails_/",
-          "logo": "fa-instagram"
+          "logo": "lni-instagram"
         },
         "tiktok": {
           "name": "Tiktok",
           "url": "https://www.tiktok.com/@macktails_",
-          "logo": "fa-tiktok"
+          "logo": "lni-tiktok"
         }
       }
    ]
